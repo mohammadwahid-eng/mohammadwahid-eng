@@ -1,4 +1,4 @@
-## Welcome! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" width="30" align="top" alt="Smile">
+## Welcome! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" width="28" align="top" alt="Smile">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayhiwahid&style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/sayhiwahid?label=Followers&style=flat-square&color=green)
