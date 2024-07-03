@@ -1,4 +1,4 @@
-## Welcome! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" width="28" align="top" alt="Smile">
+## Welcome! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" width="28" align="top" alt="Smile">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayhiwahid&style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/sayhiwahid?label=Followers&style=flat-square&color=green)
@@ -72,8 +72,8 @@ I'm a **Full Stack Software Engineer** with over 11 years of experience in desig
 
 
 ## Records
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayhiwahid&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayhiwahid&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayhiwahid&show_icons=true&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayhiwahid&layout=compact&theme=nightowl)
 
 ---
 
