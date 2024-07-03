@@ -1,11 +1,11 @@
-## Welcome! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" width="28" align="top" alt="Smile">
+## Hey! Nice to see you. <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" width="28" align="top" alt="Smile">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayhiwahid&style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/sayhiwahid?label=Followers&style=flat-square&color=green)
 ![GitHub Stars](https://img.shields.io/github/stars/sayhiwahid?label=Stars&style=flat-square&color=yellow)
 
 ## About me
-I'm a **Full Stack Software Engineer** with over 11 years of experience in designing and implementing scalable, robust solutions. My expertise spans both frontend and backend technologies, and I have a proven track record of leading development teams, delivering high-quality software, and driving innovation. I'm passionate about best practices, superior code quality, and continuous improvement.
+<div style="text-align: justify">I'm a **Full Stack Software Engineer** with over 11 years of experience in designing and implementing scalable, robust solutions. My expertise spans both frontend and backend technologies, and I have a proven track record of leading development teams, delivering high-quality software, and driving innovation. I'm passionate about best practices, superior code quality, and continuous improvement.</div>
 
 ## My Skills
 #### Languages & Frameworks
