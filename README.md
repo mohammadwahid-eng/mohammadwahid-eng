@@ -5,7 +5,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/sayhiwahid?label=Stars&style=flat-square&color=yellow)
 
 ## About me
-<div style="text-align: justify">I'm a **Full Stack Software Engineer** with over 11 years of experience in designing and implementing scalable, robust solutions. My expertise spans both frontend and backend technologies, and I have a proven track record of leading development teams, delivering high-quality software, and driving innovation. I'm passionate about best practices, superior code quality, and continuous improvement.</div>
+I'm a **Full Stack Software Engineer** with over 11 years of experience in designing and implementing scalable, robust solutions. My expertise spans both frontend and backend technologies, and I have a proven track record of leading development teams, delivering high-quality software, and driving innovation. I'm passionate about best practices, superior code quality, and continuous improvement.
 
 ## My Skills
 #### Languages & Frameworks
