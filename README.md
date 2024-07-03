@@ -65,6 +65,7 @@ I'm a **Full Stack Software Engineer** with over 11 years of experience in desig
 ## Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sayhiwahid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayhiwahid)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sayhiwahid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sayhiwahid@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/01948780674)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)](skype:live:.cid.300ccde8f19f38a1?chat)
