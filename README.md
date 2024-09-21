@@ -35,6 +35,8 @@ I'm a **Full Stack Software Engineer** with over 11 years of experience in desig
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 
 #### Tools & Technologies
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat-square)
@@ -55,7 +57,6 @@ I'm a **Full Stack Software Engineer** with over 11 years of experience in desig
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)
 ![k6](https://img.shields.io/badge/-k6-7D64FF?logo=k6&logoColor=white&style=flat-square)
 ![Artifactory](https://img.shields.io/badge/-Artifactory-00BEB3?logo=artifactory&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?logo=zoom&logoColor=white&style=flat-square)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white&style=flat-square)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat-square)
