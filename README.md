@@ -1,8 +1,8 @@
 ## Welcome! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" width="28" align="top" alt="Smile">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadwahid-eng&style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/mohammadwahid-eng?label=Followers&style=flat-square&color=green)
-![GitHub Stars](https://img.shields.io/github/stars/mohammadwahid-eng?label=Stars&style=flat-square&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=wahid-eng&style=flat-square&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/wahid-eng?label=Followers&style=flat-square&color=green)
+![GitHub Stars](https://img.shields.io/github/stars/wahid-eng?label=Stars&style=flat-square&color=yellow)
 
 ## About me
 I'm a **Full Stack Software Engineer** with over 11 years of experience in designing and implementing scalable, robust solutions. My expertise spans both frontend and backend technologies, and I have a proven track record of leading development teams, delivering high-quality software, and driving innovation. I'm passionate about best practices, superior code quality, and continuous improvement.
@@ -65,7 +65,7 @@ I'm a **Full Stack Software Engineer** with over 11 years of experience in desig
 
 ## Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sayhiwahid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadwahid-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wahid-eng)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mohammadwahid_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mwahid.eng@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/01948780674)
@@ -74,8 +74,8 @@ I'm a **Full Stack Software Engineer** with over 11 years of experience in desig
 
 
 ## Records
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadwahid-eng&show_icons=true&theme=nightowl)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadwahid-eng&layout=compact&theme=nightowl)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahid-eng&show_icons=true&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahid-eng&layout=compact&theme=nightowl)
 
 ---
 
